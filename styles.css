@@ -70,4 +70,7 @@ html {
     width: 100%;
     height: 2.5rem;
   }
-  
+
+  .about-me{
+    justify-content: center;
+  }
